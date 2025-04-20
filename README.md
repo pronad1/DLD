@@ -1,5 +1,4 @@
 # Digital Logic Design (DLD)
-
 ## 📌 Overview
 Digital Logic Design (DLD) is the foundation of digital electronics. It involves the study of binary systems, logic gates, combinational and sequential circuits, and the design of digital hardware systems.
 
